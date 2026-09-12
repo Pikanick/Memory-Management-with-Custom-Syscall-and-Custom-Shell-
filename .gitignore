@@ -1,0 +1,16 @@
+# Compiled objects and binaries produced by each subfolder's own Makefile
+*.o
+*.exe
+*.out
+
+# Assignment-specific compiled binaries (no file extension)
+a0-Pikanick-main/dlist/test_dlist
+a0-Pikanick-main/list/test_list
+a0-Pikanick-main/mystring/test_mystring
+a1-dream-team-main/shell
+a2-a2-dream-team-main/candykids
+a3-a3-dream-team-main/myalloc
+
+# Misc
+*.stackdump
+.DS_Store
